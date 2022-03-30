@@ -1,5 +1,5 @@
 aiohttp
-aiohttp-jinja2
+aiohttp_jinja2
 Jinja2==3.0.1
 telethon
 cryptg
