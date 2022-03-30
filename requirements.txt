@@ -1,17 +1,3 @@
-2
-aiohttp
-aiohttp-jinja2
-Jinja2==3.0.1
-telethon
-cryptg
-pillow
-aiohttp_session[secure]
-python-dotenv
-telethon
-cryptg
-pillow
-aiohttp_session[secure]
-python-dotenv
 aiohttp
 aiohttp-jinja2
 Jinja2==3.0.1
